@@ -1,4 +1,4 @@
-#This is how our computer opponent will play, as I import randint from the random module
+#This is how our computer opponent will play, as I import randint from the random module.
 from random import randint
 
 #create a list of play options
